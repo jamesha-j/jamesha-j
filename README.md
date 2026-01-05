@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Data Cleaning and Transformation Practice</b>
-  - [Praciting Data Cleaning and Transformation ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing Data Cleaning and Transformation ](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Data Vizualization</b>
   - Tableau Project
 - <b>Communication</b>
