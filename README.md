@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b>Data Cleaning and Transformation Practice</b>
-  - [Practicing Data Cleaning and Transformation ](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Data Vizualization</b>
-  - Tableau Project
+- <b>Data Visualizing and Analyzing Practice</b>
+  - [Practicing Vizualizing and Analyzing Data ](https://github.com/jamesha-j/DataAnalysisProject1)
+- <b>Data Cleaning and Transformation</b>
+  -  [Practicing Transforming and Cleaning Data ](https://github.com/jamesha-j/DataAnalysisProject1)
 - <b>Communication</b>
 
 <h2>📄Certifications:</h2>
