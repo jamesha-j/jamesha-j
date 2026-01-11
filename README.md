@@ -6,7 +6,6 @@
   - [Practicing Vizualizing and Analyzing Data ](https://github.com/jamesha-j/DataAnalysisProject1)
 - <b>Data Cleaning and Transformation</b>
   -  [Practicing Transforming and Cleaning Data ](https://github.com/jamesha-j/DataAnalysisProject1)
-- <b>Communication</b>
 
 <h2>📄Certifications:</h2>
 
