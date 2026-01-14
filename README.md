@@ -8,10 +8,10 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Data Visualizing and Analyzing </b>
-  - [Vizualizing and Analyzing Data](https://github.com/jamesha-j/DataAnalysisProject1)
-  - [More with Vizualizing and Analyzing Data](https://github.com/jamesha-j/DataAnalysisProject1)
+  - [Music Survey Analysis](https://github.com/jamesha-j/Music-Survey-Analysis)
+  - [Hotel Analysis](https://github.com/jamesha-j/Hotel-Analysis)
 - <b>Data Cleaning and Transformation</b>
-  -  [Transforming and Cleaning Data ](https://github.com/jamesha-j/datacleaningproject)
+  -  [Nashville Housing Analysis](https://github.com/jamesha-j/Nashville-Housing-Analysis)
 
 <h2>📄Certifications:</h2>
 
