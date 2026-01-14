@@ -7,10 +7,11 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b>Data Visualizing and Analyzing Practice</b>
-  - [Practicing Vizualizing and Analyzing Data ](https://github.com/jamesha-j/DataAnalysisProject1)
+- <b>Data Visualizing and Analyzing </b>
+  - [Vizualizing and Analyzing Data](https://github.com/jamesha-j/DataAnalysisProject1)
+  - [More with Vizualizing and Analyzing Data](https://github.com/jamesha-j/DataAnalysisProject1)
 - <b>Data Cleaning and Transformation</b>
-  -  [Practicing Transforming and Cleaning Data ](https://github.com/jamesha-j/datacleaningproject)
+  -  [Transforming and Cleaning Data ](https://github.com/jamesha-j/datacleaningproject)
 
 <h2>📄Certifications:</h2>
 
